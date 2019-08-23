@@ -16,13 +16,13 @@ In the command prompt, type in "node liri.js" then one of the following commands
 * "do-what-it-says": make a command with a search term as dictated by the random.txt file. If you change what random.txt says, the output changes, too!. Just be sure to keep that file in the right format (no spaces, command followed by comma followed by search term in double quotes(""))
 
 ### Look for upcoming concerts with "concert-this" command
-[Demo1](LIRI-Bot_Demo.gif)
+![Demo1](LIRI-Bot_Demo.gif)
 
 ### Seek out movies with the command "movie-this"
-[Demo2](LIRI-bot-demo-2.gif)
+![Demo2](LIRI-bot-demo-2.gif)
 
 ### Find songs with "spotify-this-song"
-[Demo3](LIRI-bot-demo-3.gif)
+![Demo3](LIRI-bot-demo-3.gif)
 
 ### "do-what-it-says" command takes search info and commands from the random.txt file
 [Demo4](LIRI-bot-demo-4.gif)

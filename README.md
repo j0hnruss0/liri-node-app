@@ -25,4 +25,4 @@ In the command prompt, type in "node liri.js" then one of the following commands
 ![Demo3](LIRI-bot-demo-3.gif)
 
 ### "do-what-it-says" command takes search info and commands from the random.txt file
-[Demo4](LIRI-bot-demo-4.gif)
+![Demo4](LIRI-bot-demo-4.gif)
